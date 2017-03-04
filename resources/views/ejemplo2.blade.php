@@ -1,0 +1,1 @@
+esta es la vista del ejemplo 2

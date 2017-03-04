@@ -14,4 +14,7 @@ class contralador1 extends Controller
         return view('ejemplo2');
     }
 
+       function ejemplo2(){
+        return view('ejemplo2');
+    }
 }

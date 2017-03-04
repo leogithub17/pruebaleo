@@ -17,3 +17,4 @@ Route::get('/', function () {
 
 Route::get('veame', 'contralador1@ejemplo');
 
+Route::get('uyyy', 'contralador1@ejemplo2');
